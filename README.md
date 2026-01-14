@@ -100,5 +100,5 @@ Models were evaluated using:
 
 
 ## Author
-- **Lilian Alhalabi**
-- **Shahad Almasri**
+- **Lilian Alhalabi** https://github.com/Lilian-Alhalabi
+- **Shahad Almasri** https://github.com/SHAHEDALMASRI
